@@ -1,0 +1,28 @@
+group 'de.begraph'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'application'
+
+sourceCompatibility = 1.8
+
+sourceSets {
+  main {
+    java {
+      srcDirs = ["src/main/java"]
+    }
+  }
+}
+
+project.ext.lwjglVersion = "2.9.2"
+project.ext.lwjglNatives = "natives-macos"
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  testCompile group: 'junit', name: 'junit', version: '4.12'
+  compile group: 'org.lwjgl.lwjgl', name: 'lwjgl', version: '2.9.3'
+  compile files('libs/swt.jar')
+}

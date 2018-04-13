@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BEGraph.iml" filepath="$PROJECT_DIR$/.idea/modules/BEGraph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BEGraphFileSystem.iml" filepath="$PROJECT_DIR$/.idea/modules/BEGraphFileSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BEGraphFileSystem_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BEGraphFileSystem_main.iml" group="BEGraphFileSystem" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BEGraphFileSystem_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BEGraphFileSystem_test.iml" group="BEGraphFileSystem" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BEGraph_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BEGraph_main.iml" group="BEGraph" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BEGraph_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BEGraph_test.iml" group="BEGraph" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/begraph.iml" filepath="$PROJECT_DIR$/.idea/begraph.iml" />
+    </modules>
+  </component>
+</project>
